@@ -1,8 +1,6 @@
-Make soup in the morning
+[DONE] Make soup in the morning
 Buy the painting
 Get the blue car
-Buy grocery
 Master Python!
-order chicken sandwich
-oder hot chocolate
-waking up at 4 ambrush my teeth and shower
+nats integration
+push all the changes
